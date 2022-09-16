@@ -1,0 +1,3 @@
+//This a txt file that stored player information
+
+playerName: 31 31 Age: 13 score: 1000
